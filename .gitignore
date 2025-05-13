@@ -1,0 +1,24 @@
+# Ignorer les fichiers vidéo
+*.MP4
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# Autres fichiers médias volumineux
+*.wav
+*.WAV
+
+# Dossiers spécifiques pour les médias
+# public/videos/
+
+# Fichiers générés et dépendances
+/node_modules/
+/.vite/
+/dist/
+.DS_Store
+
+# Fichiers de configuration locaux
+.env.local
+.env.*.local
+
